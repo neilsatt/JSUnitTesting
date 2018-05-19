@@ -1,0 +1,7 @@
+Behavior Driven Development 
+
+In BDD we write tests before we write any real code. 
+They Describe the expected behavior of our application. 
+
+Unit Test - test small funcionality, prove that each piece of code does what we want. 
+
